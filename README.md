@@ -2,12 +2,12 @@
 
 <img src="Screenshots/Screenshot_1603709829.png" alt="app" width="400" height="700">
 
-###### Example output
+#### Example output
 >Bronze Card
-<img src="Screenshots/Screenshot_1603711707.png.png" alt="bronze" width="400" height="700">
+<img src="Screenshots/Screenshot_1603711707.png" alt="bronze" width="400" height="700">
 
 >Silver Card
-<img src="Screenshots/Screenshot_1603711721.png.png" alt="silver" width="400" height="700">
+<img src="Screenshots/Screenshot_1603711721.png" alt="silver" width="400" height="700">
 
 >Gold Card
-<img src="Screenshots/Screenshot_1603711725.png.png" alt="gold" width="400" height="700">
+<img src="Screenshots/Screenshot_1603711725.png" alt="gold" width="400" height="700">
