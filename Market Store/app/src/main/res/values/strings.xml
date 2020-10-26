@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Market Store</string>
+    <string name="bronze">Bronze Card</string>
+    <string name="silver">Silver Card</string>
+    <string name="gold">Gold Card</string>
+    <string name="click">Choose a card and click it</string>
+    <string name="turnover">Turnover:</string>
+    <string name="pValue">Purchase value:</string>
+</resources>
